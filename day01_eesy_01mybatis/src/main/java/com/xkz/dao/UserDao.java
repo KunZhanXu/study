@@ -9,7 +9,7 @@ import java.util.List;
  */
 public interface UserDao {
     /**
-     * 查询所有操作
+     * 查询所有操作(加入git)
      * @return
      */
     List<User> findAll();
