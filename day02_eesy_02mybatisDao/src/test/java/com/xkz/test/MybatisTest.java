@@ -55,7 +55,7 @@ public class MybatisTest {
     @Test
     public void testSave() {
         User user = new User();
-        user.setUsername("dao impl user");
+        user.setUsername("dao impl user1111");
         user.setAddress("北京市顺义区");
         user.setSex("男");
         user.setBirthday(new Date());

@@ -3,9 +3,22 @@
         PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
         "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
 <mapper namespace="com.xkz.dao.UserDao">
+    <!--配置 查询结果的列名和实体类的属性名是对应关系-->
+    <resultMap id="userMap" type="com.xkz.domain.User">
+        <!--主键字段的对应-->
+        <id property="userId" column="id"></id>
+        <!--非主键字段的对应-->
+        <result property="userName" column="username"></result>
+        <result property="userAddress" column="address"></result>
+        <result property="userSex" column="sex"></result>
+        <result property="userBirthday" column="birthday"></result>
+    </resultMap>
+    
+    
     <!-- 查询所有 -->
     <select id="findAll" resultType="com.xkz.domain.User">
-        select id as userId,username as userName,address as userAdress,sex as userSex,birthday as userBirthday from user;
+        <!--select id as userId,username as userName,address as userAdress,sex as userSex,birthday as userBirthday from user;-->
+        select * from user;
     </select>
     <!--保存用户-->
     <insert id="saveUser" parameterType="com.xkz.domain.User">
