@@ -1,9 +1,6 @@
 package com.xkz.test;
 
-import com.xkz.dao.AccountDao;
 import com.xkz.dao.UserDao;
-import com.xkz.domain.Account;
-import com.xkz.domain.AccountUser;
 import com.xkz.domain.User;
 import org.apache.ibatis.io.Resources;
 import org.apache.ibatis.session.SqlSession;
@@ -52,7 +49,7 @@ public class UserTest {
                 users) {
             System.out.println("-------每个用户的信息-------");
             System.out.println(user);
-            System.out.println(user.getAccounts());
+            System.out.println(user.getRoles());
         }
     }
 
