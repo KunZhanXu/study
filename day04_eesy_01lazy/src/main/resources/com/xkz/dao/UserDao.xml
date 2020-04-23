@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.xkz.dao.UserDao">
+    <!--定义User的resultMap-->
+    <resultMap id="userAccountMap" type="user">
+        <id property="id" column="id"></id>
+        <result column="username" property="username"></result>
+        <result column="address" property="address"></result>
+        <result column="sex" property="sex"></result>
+        <result column="birthday" property="birthday"></result>
+        <!--配置user对象中account集合的映射  这是一对多的情况-->
+        <collection property="accounts" ofType="account">
+            <id property="id" column="aid"></id>
+            <result property="uid" column="uid"></result>
+            <result property="money" column="money"></result>
+        </collection>
+    </resultMap>
+    <!-- 查询所有 -->
+    <select id="findAll" resultMap="userAccountMap">
+        select * from user u left outer join account a on u.id= a.uid
+    </select>
+    <!--根据id查询用户-->
+    <select id="findById" parameterType="int" resultType="user">
+        select * from user where id=#{uid}
+    </select>
+</mapper>
