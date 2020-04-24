@@ -21,6 +21,7 @@
     </environments>
     <!-- 配置映射文件的位置 -->
     <mappers>
-        <mapper resource="com/xkz/dao/UserDao.xml"></mapper>
+        <!--<mapper resource="com/xkz/dao/UserDao.xml"></mapper>-->
+        <mapper class="com.xkz.dao.UserDao"></mapper>
     </mappers>
 </configuration>

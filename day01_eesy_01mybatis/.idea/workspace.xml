@@ -2,13 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c00190f8-6cdd-4849-a843-fe7f7f8dea5f" name="Default" comment="修改测试">
-      <change afterPath="$PROJECT_DIR$/../day02_eesy_02mybatisDao/src/main/java/com/xkz/dao/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day02_eesy_02mybatisDao/src/main/java/com/xkz/dao/impl/UserDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day02_eesy_02mybatisDao/src/main/java/com/xkz/domain/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day02_eesy_02mybatisDao/src/main/resources/SqlMapConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day02_eesy_02mybatisDao/src/main/resources/com/xkz/dao/UserDao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day02_eesy_02mybatisDao/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day02_eesy_02mybatisDao/src/test/java/com/xkz/test/MybatisTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_02cache/src/test/java/com/xkz/test/SecondLevelCacheTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/day04_eesy_03annotation_mybatis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/src/main/java/com/xkz/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/src/main/java/com/xkz/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/src/main/resources/SqlMapConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/src/main/resources/jdbcConfig.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/src/test/java/com/xkz/test/MybatisAnnoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/target/classes/SqlMapConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/target/classes/com/xkz/dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/target/classes/com/xkz/domain/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/target/classes/jdbcConfig.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/target/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/target/test-classes/com/xkz/test/MybatisAnnoTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day04_eesy_01lazy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day04_eesy_01lazy/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day04_eesy_02cache/src/main/java/com/xkz/dao/AccountDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day04_eesy_02cache/src/main/java/com/xkz/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day04_eesy_02cache/src/main/java/com/xkz/dao/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day04_eesy_02cache/src/main/java/com/xkz/domain/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day04_eesy_02cache/src/main/java/com/xkz/domain/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day04_eesy_02cache/src/main/java/com/xkz/domain/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day04_eesy_02cache/src/main/resources/SqlMapConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day04_eesy_02cache/src/main/resources/SqlMapConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day04_eesy_02cache/src/main/resources/com/xkz/dao/AccountDao.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day04_eesy_02cache/src/main/resources/com/xkz/dao/UserDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day04_eesy_02cache/src/main/resources/com/xkz/dao/UserDao.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day04_eesy_02cache/src/test/java/com/xkz/test/AccountTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day04_eesy_02cache/src/test/java/com/xkz/test/UserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day04_eesy_02cache/src/test/java/com/xkz/test/UserTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,6 +132,7 @@
       <workItem from="1587194146729" duration="2989000" />
       <workItem from="1587341047862" duration="20000" />
       <workItem from="1587517130950" duration="52000" />
+      <workItem from="1587699324957" duration="6000" />
     </task>
     <task id="LOCAL-00001" summary="修改测试">
       <created>1587197770819</created>

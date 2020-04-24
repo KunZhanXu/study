@@ -2,24 +2,65 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed916c6c-3d46-4b86-9573-147f23c32016" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_02cache/src/test/java/com/xkz/test/SecondLevelCacheTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/day04_eesy_03annotation_mybatis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/src/main/java/com/xkz/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/src/main/java/com/xkz/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/src/main/resources/SqlMapConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/src/main/resources/jdbcConfig.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/src/test/java/com/xkz/test/AnnotationCRUDTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/src/test/java/com/xkz/test/MybatisAnnoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/target/classes/SqlMapConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/target/classes/com/xkz/dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/target/classes/com/xkz/domain/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/target/classes/jdbcConfig.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/target/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/target/test-classes/com/xkz/test/MybatisAnnoTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_04annoOne2Many/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_04annoOne2Many/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_04annoOne2Many/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_04annoOne2Many/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_04annoOne2Many/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_04annoOne2Many/src/main/java/com/xkz/dao/AccountDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_04annoOne2Many/src/main/java/com/xkz/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_04annoOne2Many/src/main/java/com/xkz/domain/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_04annoOne2Many/src/main/java/com/xkz/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_04annoOne2Many/src/main/resources/SqlMapConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_04annoOne2Many/src/main/resources/jdbcConfig.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_04annoOne2Many/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_04annoOne2Many/src/test/java/com/xkz/test/AccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_04annoOne2Many/src/test/java/com/xkz/test/AnnotationCRUDTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_04annoOne2Many/target/classes/SqlMapConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_04annoOne2Many/target/classes/com/xkz/dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_04annoOne2Many/target/classes/com/xkz/domain/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_04annoOne2Many/target/classes/jdbcConfig.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_04annoOne2Many/target/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_04annoOne2Many/target/test-classes/com/xkz/test/AnnotationCRUDTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day01_eesy_01mybatis/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day01_eesy_01mybatis/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day02_eesy_01mybatisCRUD/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day02_eesy_01mybatisCRUD/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day02_eesy_01mybatisCRUD/src/main/resources/SqlMapConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day02_eesy_01mybatisCRUD/src/main/resources/SqlMapConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day02_eesy_01mybatisCRUD/target/classes/SqlMapConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day02_eesy_01mybatisCRUD/target/classes/SqlMapConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day02_eesy_01mybatisCRUD/target/classes/com/xkz/dao/UserDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/../day02_eesy_01mybatisCRUD/target/classes/com/xkz/dao/UserDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day02_eesy_01mybatisCRUD/target/classes/com/xkz/dao/UserDao.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day02_eesy_01mybatisCRUD/target/classes/com/xkz/domain/QueryVo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../day02_eesy_01mybatisCRUD/target/classes/com/xkz/domain/QueryVo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day02_eesy_01mybatisCRUD/target/classes/com/xkz/domain/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/../day02_eesy_01mybatisCRUD/target/classes/com/xkz/domain/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day02_eesy_01mybatisCRUD/target/test-classes/com/xkz/test/MybatisTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../day02_eesy_01mybatisCRUD/target/test-classes/com/xkz/test/MybatisTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xkz/dao/AccountDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xkz/dao/AccountDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/SqlMapConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/SqlMapConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/xkz/dao/AccountDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/xkz/dao/AccountDao.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/xkz/dao/UserDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/xkz/dao/UserDao.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/xkz/test/UserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/xkz/test/UserTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SqlMapConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SqlMapConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xkz/dao/AccountDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xkz/dao/AccountDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xkz/dao/AccountDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xkz/dao/AccountDao.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xkz/dao/UserDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xkz/dao/UserDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xkz/dao/UserDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xkz/dao/UserDao.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xkz/domain/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xkz/domain/Account.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xkz/domain/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xkz/domain/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/xkz/test/AccountTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/xkz/test/AccountTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/xkz/test/MybatisTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/xkz/test/MybatisTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/xkz/test/UserTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/xkz/test/UserTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day04_eesy_02cache/src/main/java/com/xkz/dao/AccountDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day04_eesy_02cache/src/main/java/com/xkz/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day04_eesy_02cache/src/main/java/com/xkz/dao/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day04_eesy_02cache/src/main/java/com/xkz/domain/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day04_eesy_02cache/src/main/java/com/xkz/domain/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day04_eesy_02cache/src/main/java/com/xkz/domain/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day04_eesy_02cache/src/main/resources/SqlMapConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day04_eesy_02cache/src/main/resources/SqlMapConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day04_eesy_02cache/src/main/resources/com/xkz/dao/AccountDao.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day04_eesy_02cache/src/main/resources/com/xkz/dao/UserDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day04_eesy_02cache/src/main/resources/com/xkz/dao/UserDao.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day04_eesy_02cache/src/test/java/com/xkz/test/AccountTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day04_eesy_02cache/src/test/java/com/xkz/test/UserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day04_eesy_02cache/src/test/java/com/xkz/test/UserTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +85,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1axpl1dSNkOHp8lMQuLNveep0x9" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -181,30 +224,35 @@
       <option name="presentableId" value="Default" />
       <updated>1587647569392</updated>
       <workItem from="1587647580603" duration="4697000" />
-      <workItem from="1587687248028" duration="2287000" />
+      <workItem from="1587687248028" duration="2636000" />
+      <workItem from="1587710162461" duration="35000" />
+      <workItem from="1587710394593" duration="398000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="469" key="GridCell.Tab.0.bottom" timestamp="1587690467235">
+    <state width="1877" height="469" key="GridCell.Tab.0.bottom" timestamp="1587710792629">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="469" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587690467235" />
-    <state width="1877" height="469" key="GridCell.Tab.0.center" timestamp="1587690467235">
+    <state width="1877" height="469" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587710792629" />
+    <state width="1877" height="469" key="GridCell.Tab.0.center" timestamp="1587710792629">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="469" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587690467235" />
-    <state width="1877" height="469" key="GridCell.Tab.0.left" timestamp="1587690467235">
+    <state width="1877" height="469" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587710792629" />
+    <state width="1877" height="469" key="GridCell.Tab.0.left" timestamp="1587710792629">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="469" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587690467235" />
-    <state width="1877" height="469" key="GridCell.Tab.0.right" timestamp="1587690467235">
+    <state width="1877" height="469" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587710792629" />
+    <state width="1877" height="469" key="GridCell.Tab.0.right" timestamp="1587710792629">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="469" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587690467235" />
+    <state width="1877" height="469" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587710792629" />
     <state x="334" y="217" key="new project wizard" timestamp="1587691259328">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

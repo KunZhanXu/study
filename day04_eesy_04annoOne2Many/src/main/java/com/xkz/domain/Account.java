@@ -6,16 +6,9 @@ public class Account implements Serializable {
     private Integer id;
     private Integer uid;
     private Double money;
-    //从表 实体应该包含一个主表 实体的对象引用
+
+    //多对一(mybatis中称之为一对一) 的映射:一个账户只能属于一个用户
     private User user;
-
-    public User getUser() {
-        return user;
-    }
-
-    public void setUser(User user) {
-        this.user = user;
-    }
 
     @Override
     public String toString() {
@@ -24,6 +17,14 @@ public class Account implements Serializable {
                 ", uid=" + uid +
                 ", money=" + money +
                 '}';
+    }
+
+    public User getUser() {
+        return user;
+    }
+
+    public void setUser(User user) {
+        this.user = user;
     }
 
     public Integer getId() {
