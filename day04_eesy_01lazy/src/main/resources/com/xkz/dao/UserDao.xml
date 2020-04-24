@@ -11,15 +11,11 @@
         <result column="sex" property="sex"></result>
         <result column="birthday" property="birthday"></result>
         <!--配置user对象中account集合的映射  这是一对多的情况-->
-        <collection property="accounts" ofType="account">
-            <id property="id" column="aid"></id>
-            <result property="uid" column="uid"></result>
-            <result property="money" column="money"></result>
-        </collection>
+        <collection property="accounts" ofType="account" select="com.xkz.dao.AccountDao.findAccountByUid" column="id"></collection>
     </resultMap>
     <!-- 查询所有 -->
     <select id="findAll" resultMap="userAccountMap">
-        select * from user u left outer join account a on u.id= a.uid
+        select * from user
     </select>
     <!--根据id查询用户-->
     <select id="findById" parameterType="int" resultType="user">
