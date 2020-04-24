@@ -1,16 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed916c6c-3d46-4b86-9573-147f23c32016" name="Default" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
+    <list default="true" id="ed916c6c-3d46-4b86-9573-147f23c32016" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_02cache/src/test/java/com/xkz/test/SecondLevelCacheTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/day04_eesy_03annotation_mybatis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/src/main/java/com/xkz/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/src/main/java/com/xkz/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/src/main/resources/SqlMapConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/src/main/resources/jdbcConfig.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/src/test/java/com/xkz/test/AnnotationCRUDTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/src/test/java/com/xkz/test/MybatisAnnoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/target/classes/SqlMapConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/target/classes/com/xkz/dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/target/classes/com/xkz/domain/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/target/classes/jdbcConfig.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/target/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/target/test-classes/com/xkz/test/MybatisAnnoTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_04annoOne2Many/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_04annoOne2Many/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_04annoOne2Many/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_04annoOne2Many/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_04annoOne2Many/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_04annoOne2Many/src/main/java/com/xkz/dao/AccountDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_04annoOne2Many/src/main/java/com/xkz/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_04annoOne2Many/src/main/java/com/xkz/domain/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_04annoOne2Many/src/main/java/com/xkz/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_04annoOne2Many/src/main/resources/SqlMapConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_04annoOne2Many/src/main/resources/jdbcConfig.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_04annoOne2Many/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_04annoOne2Many/src/test/java/com/xkz/test/AccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_04annoOne2Many/src/test/java/com/xkz/test/AnnotationCRUDTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_04annoOne2Many/target/classes/SqlMapConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_04annoOne2Many/target/classes/com/xkz/dao/UserDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_04annoOne2Many/target/classes/com/xkz/domain/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_04annoOne2Many/target/classes/jdbcConfig.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_04annoOne2Many/target/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_04annoOne2Many/target/test-classes/com/xkz/test/AnnotationCRUDTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day01_eesy_01mybatis/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day01_eesy_01mybatis/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day02_eesy_01mybatisCRUD/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day02_eesy_01mybatisCRUD/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day02_eesy_01mybatisCRUD/src/main/resources/SqlMapConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day02_eesy_01mybatisCRUD/src/main/resources/SqlMapConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day02_eesy_01mybatisCRUD/target/classes/SqlMapConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day02_eesy_01mybatisCRUD/target/classes/SqlMapConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day02_eesy_01mybatisCRUD/target/classes/com/xkz/dao/UserDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/../day02_eesy_01mybatisCRUD/target/classes/com/xkz/dao/UserDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day02_eesy_01mybatisCRUD/target/classes/com/xkz/dao/UserDao.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day02_eesy_01mybatisCRUD/target/classes/com/xkz/domain/QueryVo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../day02_eesy_01mybatisCRUD/target/classes/com/xkz/domain/QueryVo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day02_eesy_01mybatisCRUD/target/classes/com/xkz/domain/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/../day02_eesy_01mybatisCRUD/target/classes/com/xkz/domain/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day02_eesy_01mybatisCRUD/target/test-classes/com/xkz/test/MybatisTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../day02_eesy_01mybatisCRUD/target/test-classes/com/xkz/test/MybatisTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day04_eesy_02cache/src/main/java/com/xkz/dao/AccountDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day04_eesy_02cache/src/main/java/com/xkz/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day04_eesy_02cache/src/main/java/com/xkz/dao/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day04_eesy_02cache/src/main/java/com/xkz/domain/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day04_eesy_02cache/src/main/java/com/xkz/domain/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day04_eesy_02cache/src/main/java/com/xkz/domain/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day04_eesy_02cache/src/main/resources/SqlMapConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day04_eesy_02cache/src/main/resources/SqlMapConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day04_eesy_02cache/src/main/resources/com/xkz/dao/AccountDao.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day04_eesy_02cache/src/main/resources/com/xkz/dao/UserDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day04_eesy_02cache/src/main/resources/com/xkz/dao/UserDao.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day04_eesy_02cache/src/test/java/com/xkz/test/AccountTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day04_eesy_02cache/src/test/java/com/xkz/test/UserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day04_eesy_02cache/src/test/java/com/xkz/test/UserTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
@@ -94,6 +151,10 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+=======
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+>>>>>>> 410e6718cd11410c191180aebcf36219b05c8bd1
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -109,9 +170,11 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
+  <component name="ProjectId" id="1axpl1dSNkOHp8lMQuLNveep0x9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
+<<<<<<< HEAD
   <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="55" />
     <option name="y" value="90" />
@@ -267,11 +330,28 @@
         </subPane>
       </pane>
     </panes>
+=======
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+>>>>>>> 410e6718cd11410c191180aebcf36219b05c8bd1
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+<<<<<<< HEAD
+=======
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+>>>>>>> 410e6718cd11410c191180aebcf36219b05c8bd1
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
@@ -281,21 +361,12 @@
       <recent name="F:\我的·\Intellj\githubstudy\study\day04_eesy_01lazy\src" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="JUnit.AccountTest.testFindAll">
+  <component name="RunManager" selected="JUnit.UserTest.testFindAll">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="AccountTest.testFindAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="day04_eesy_01lazy" />
@@ -305,20 +376,14 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.xkz.test" />
       <option name="MAIN_CLASS_NAME" value="com.xkz.test.AccountTest" />
       <option name="METHOD_NAME" value="testFindAll" />
       <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="AccountTest.testFindAllAccountUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="day04_eesy_01lazy" />
@@ -328,69 +393,72 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.xkz.test" />
       <option name="MAIN_CLASS_NAME" value="com.xkz.test.AccountTest" />
       <option name="METHOD_NAME" value="testFindAllAccountUser" />
       <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserTest.testFindAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day04_eesy_01lazy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xkz.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.xkz.test" />
+      <option name="MAIN_CLASS_NAME" value="com.xkz.test.UserTest" />
+      <option name="METHOD_NAME" value="testFindAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
+    <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
       <properties />
       <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <list>
       <item itemvalue="JUnit.AccountTest.testFindAllAccountUser" />
       <item itemvalue="JUnit.AccountTest.testFindAll" />
+      <item itemvalue="JUnit.UserTest.testFindAll" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.UserTest.testFindAll" />
         <item itemvalue="JUnit.AccountTest.testFindAll" />
         <item itemvalue="JUnit.AccountTest.testFindAllAccountUser" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -403,6 +471,7 @@
       <option name="presentableId" value="Default" />
       <updated>1587647569392</updated>
       <workItem from="1587647580603" duration="4697000" />
+<<<<<<< HEAD
       <workItem from="1587655221854" duration="293000" />
     </task>
     <servers />
@@ -476,12 +545,21 @@
       <window_info anchor="bottom" id="Messages" order="4" weight="0.32905984" />
     </layout>
   </component>
+=======
+      <workItem from="1587687248028" duration="2636000" />
+      <workItem from="1587710162461" duration="35000" />
+      <workItem from="1587710394593" duration="398000" />
+    </task>
+    <servers />
+  </component>
+>>>>>>> 410e6718cd11410c191180aebcf36219b05c8bd1
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
@@ -592,6 +670,29 @@
         </state>
       </provider>
     </entry>
+=======
+  <component name="WindowStateProjectService">
+    <state width="1877" height="469" key="GridCell.Tab.0.bottom" timestamp="1587710792629">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="469" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587710792629" />
+    <state width="1877" height="469" key="GridCell.Tab.0.center" timestamp="1587710792629">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="469" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587710792629" />
+    <state width="1877" height="469" key="GridCell.Tab.0.left" timestamp="1587710792629">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="469" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587710792629" />
+    <state width="1877" height="469" key="GridCell.Tab.0.right" timestamp="1587710792629">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="469" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587710792629" />
+    <state x="334" y="217" key="new project wizard" timestamp="1587691259328">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="217" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1587691259328" />
+>>>>>>> 410e6718cd11410c191180aebcf36219b05c8bd1
   </component>
   <component name="masterDetails">
     <states>

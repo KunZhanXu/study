@@ -9,7 +9,7 @@
     <!--配置参数-->
     <settings>
         <!--开启mybatis支持延迟加载-->
-        <setting name="lazyLoadingEnabled" value="false"/>
+        <setting name="lazyLoadingEnabled" value="true"/>
         <setting name="aggressiveLazyLoading" value="true"></setting>
     </settings>
     <!--使用typeAliases配置别名,它只能配置domain中的类的别名-->
