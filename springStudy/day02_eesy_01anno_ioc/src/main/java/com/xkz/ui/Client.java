@@ -22,16 +22,20 @@ public class Client {
      */
     public static void main(String[] args) {
         //1.获取核心容器对象
-        ApplicationContext ac = new ClassPathXmlApplicationContext("bean.xml");
+        //ApplicationContext ac = new ClassPathXmlApplicationContext("bean.xml");
+        ClassPathXmlApplicationContext ac = new ClassPathXmlApplicationContext("bean.xml");
         //2.根据id获取获取Bean对象
-        AccountService as = (AccountService)ac.getBean("accountServiceImpl");
-        System.out.println(as);
+        AccountService as = (AccountService)ac.getBean("accountService");
+        AccountService as2 = (AccountService)ac.getBean("accountService");
+        System.out.println(as==as2);
+        ac.close();
 //
 //
 //        AccountDao ado = ac.getBean("accountDao", AccountDao.class);
 //        System.out.println(ado);
 
         as.saveAccount();
+        ac.close();
 
     }
 }
