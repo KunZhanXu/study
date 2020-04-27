@@ -2,45 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="214667ae-370d-4fcd-af1f-493eb37d8aab" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../day04_eesy_02cache/src/test/java/com/xkz/test/SecondLevelCacheTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/day04_eesy_03annotation_mybatis.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/src/main/java/com/xkz/dao/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/src/main/java/com/xkz/domain/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/src/main/resources/SqlMapConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/src/main/resources/jdbcConfig.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/src/test/java/com/xkz/test/MybatisAnnoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/target/classes/SqlMapConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/target/classes/com/xkz/dao/UserDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/target/classes/com/xkz/domain/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/target/classes/jdbcConfig.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/target/classes/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/target/test-classes/com/xkz/test/MybatisAnnoTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day01_eesy_01mybatis/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day01_eesy_01mybatis/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/SqlMapConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/SqlMapConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/xkz/dao/UserDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xkz/dao/UserDao.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/SqlMapConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SqlMapConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xkz/dao/UserDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xkz/dao/UserDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xkz/dao/UserDao.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xkz/domain/QueryVo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xkz/domain/QueryVo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xkz/domain/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xkz/domain/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/xkz/test/MybatisTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/xkz/test/MybatisTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day04_eesy_01lazy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day04_eesy_01lazy/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day04_eesy_02cache/src/main/java/com/xkz/dao/AccountDao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day04_eesy_02cache/src/main/java/com/xkz/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day04_eesy_02cache/src/main/java/com/xkz/dao/UserDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day04_eesy_02cache/src/main/java/com/xkz/domain/Account.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day04_eesy_02cache/src/main/java/com/xkz/domain/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day04_eesy_02cache/src/main/java/com/xkz/domain/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day04_eesy_02cache/src/main/resources/SqlMapConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day04_eesy_02cache/src/main/resources/SqlMapConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day04_eesy_02cache/src/main/resources/com/xkz/dao/AccountDao.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day04_eesy_02cache/src/main/resources/com/xkz/dao/UserDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day04_eesy_02cache/src/main/resources/com/xkz/dao/UserDao.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day04_eesy_02cache/src/test/java/com/xkz/test/AccountTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day04_eesy_02cache/src/test/java/com/xkz/test/UserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day04_eesy_02cache/src/test/java/com/xkz/test/UserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/day02_eesy_02account/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/day02_eesy_02account/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/day02_eesy_02account/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/day02_eesy_02account/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/day02_eesy_02account/day02_eesy_02account.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/day02_eesy_02account/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/day02_eesy_02account/src/main/java/com/xkz/dao/AccountDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/day02_eesy_02account/src/main/java/com/xkz/dao/impl/AccountDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/day02_eesy_02account/src/main/java/com/xkz/domain/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/day02_eesy_02account/src/main/java/com/xkz/service/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/day02_eesy_02account/src/main/java/com/xkz/service/impl/AccountServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springStudy/day02_eesy_02account/src/main/resources/bean.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -237,6 +210,7 @@
       <workItem from="1587563781338" duration="854000" />
       <workItem from="1587699340198" duration="92000" />
       <workItem from="1587699728041" duration="81000" />
+      <workItem from="1587954212460" duration="35000" />
     </task>
     <task id="LOCAL-00001" summary="测试一下">
       <created>1587470932040</created>
