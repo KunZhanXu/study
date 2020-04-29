@@ -18,7 +18,6 @@ public class AccountServiceImpl implements AccountService {
     private AccountDao accountDao;
 
 
-
     @Override
     public List<Account> findAllAccount() {
         return accountDao.findAllAccount();
