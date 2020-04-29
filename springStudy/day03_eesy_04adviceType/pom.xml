@@ -5,10 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.xkz</groupId>
-    <artifactId>day03_eesy_03springAOP</artifactId>
+    <artifactId>day03_eesy_04adviceType</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <packaging>jar</packaging>
-
     <dependencies>
         <dependency>
             <groupId>org.springframework</groupId>
