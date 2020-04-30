@@ -1,31 +1,44 @@
 package com.xkz.utils;
 
 import org.aspectj.lang.ProceedingJoinPoint;
+import org.aspectj.lang.annotation.*;
+import org.springframework.stereotype.Component;
 
 /**
  * 用于记录日志的工具类,它里面提供了公共的代码
  */
+@Component("logger")
+@Aspect  //表示当前类是一个切面类
 public class Logger {
+
+    @Pointcut("execution(* com.xkz.service..impl.*.*(..))")
+    private void pt1(){
+    }
+
     /**
      * 前置通知
      */
+    //@Before("pt1()")
     public void beforePrintLog(){
         System.out.println("前置通知Logger类中的beforePrintLog方法开始记录日志...");
     }
     /**
      * 后置通知
      */
+    //@AfterReturning("pt1()")
     public void afterReturnPrintLog(){
         System.out.println("后置通知Logger类中的afterReturnPrintLog方法开始记录日志...");
     }/**
      * 异常通知
      */
+    //AfterThrowing("pt1()")
     public void afterThrowingPrintLog(){
         System.out.println("异常通知Logger类中的afterThrowingPrintLog方法开始记录日志...");
     }
     /**
      * 最终通知
      */
+    //@After("pt1()")
     public void afterPrintLog(){
         System.out.println("最终通知Logger类中的afterPrintLog方法开始记录日志...");
     }
@@ -42,6 +55,7 @@ public class Logger {
      *  spring中的环绕通知:
      *      它是spring框架为我们提供的一种可以在代码中手动控制增强方法何时执行的方式
      */
+    @Around("pt1()")
     public Object arroundPringLog(ProceedingJoinPoint pjp){
         Object rtValue = null;
         try{
