@@ -23,15 +23,17 @@
         <aop:pointcut id="pt1" expression="execution(* com.xkz.service.impl.*.*(..))"></aop:pointcut>
         <!--配置切面-->
         <aop:aspect id="logAdvice" ref="logger">
-            <!--配置前置通知:在切入点方法执行之前执行-->
+            <!--&lt;!&ndash;配置前置通知:在切入点方法执行之前执行&ndash;&gt;
             <aop:before method="beforePrintLog" pointcut-ref="pt1"></aop:before>
-            <!--配置后置通知：在切入点方法正常执行之后执行-->
+            &lt;!&ndash;配置后置通知：在切入点方法正常执行之后执行&ndash;&gt;
             <aop:after-returning method="afterReturnPrintLog" pointcut-ref="pt1"></aop:after-returning>
-            <!--配置异常通知：在切入点方法产生异常之后执行-->
+            &lt;!&ndash;配置异常通知：在切入点方法产生异常之后执行&ndash;&gt;
             <aop:after-throwing method="afterThrowingPrintLog" pointcut-ref="pt1"></aop:after-throwing>
-            <!--配置最终通知：无论切入点方法是否正常执行它都会 在其后面执行-->
-            <aop:after method="afterPrintLog" pointcut-ref="pt1"></aop:after>
+            &lt;!&ndash;配置最终通知：无论切入点方法是否正常执行它都会 在其后面执行&ndash;&gt;
+            <aop:after method="afterPrintLog" pointcut-ref="pt1"></aop:after>-->
 
+            <!--配置环绕通知  详细的注释请看Logger类中-->
+            <aop:around method="arroundPringLog" pointcut-ref="pt1"></aop:around>
 
         </aop:aspect>
     </aop:config>
