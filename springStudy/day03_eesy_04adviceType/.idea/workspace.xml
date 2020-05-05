@@ -2,30 +2,75 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c95c7cf5-8eb9-410c-a049-c320eee8beef" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/day03_eesy_04adviceType.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day03_eesy_05annotationAOP/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day03_eesy_05annotationAOP/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day03_eesy_05annotationAOP/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day03_eesy_05annotationAOP/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day03_eesy_05annotationAOP/day03_eesy_05annotationAOP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day03_eesy_05annotationAOP/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day03_eesy_05annotationAOP/src/main/java/com/xkz/service/IAccountService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day03_eesy_05annotationAOP/src/main/java/com/xkz/service/impl/AccountServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day03_eesy_05annotationAOP/src/main/java/com/xkz/utils/Logger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day03_eesy_05annotationAOP/src/main/resources/bean.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day03_eesy_05annotationAOP/src/test/java/com/xkz/test/AOPTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xkz/service/impl/AccountServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xkz/service/impl/AccountServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xkz/utils/Logger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xkz/utils/Logger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/bean.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/bean.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/bean.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/bean.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xkz/service/IAccountService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xkz/service/IAccountService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xkz/service/impl/AccountServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xkz/service/impl/AccountServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/xkz/utils/Logger.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/xkz/utils/Logger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/xkz/test/AOPTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/xkz/test/AOPTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_01jdbctemplate/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_01jdbctemplate/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_01jdbctemplate/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_01jdbctemplate/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_01jdbctemplate/day04_eesy_01jdbctemplate.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_01jdbctemplate/src/main/java/com/xkz/dao/IAccountDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_01jdbctemplate/src/main/java/com/xkz/dao/impl/AccountDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_01jdbctemplate/src/main/java/com/xkz/dao/impl/AccountDaoImpl2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_01jdbctemplate/src/main/java/com/xkz/dao/impl/JdbcDaoSupport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_01jdbctemplate/src/main/java/com/xkz/domain/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_01jdbctemplate/src/main/java/com/xkz/jdbctemplate/JdbcTemplateDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_01jdbctemplate/src/main/java/com/xkz/jdbctemplate/JdbcTemplateDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_01jdbctemplate/src/main/java/com/xkz/jdbctemplate/JdbcTemplateDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_01jdbctemplate/src/main/java/com/xkz/jdbctemplate/JdbcTemplateDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_01jdbctemplate/src/main/resources/bean.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_02account_aoptx_xml/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_02account_aoptx_xml/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_02account_aoptx_xml/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_02account_aoptx_xml/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_02account_aoptx_xml/day04_eesy_02account_aoptx_xml.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_02account_aoptx_xml/src/main/java/com/xkz/dao/IAccountDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_02account_aoptx_xml/src/main/java/com/xkz/dao/impl/AccountDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_02account_aoptx_xml/src/main/java/com/xkz/domain/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_02account_aoptx_xml/src/main/java/com/xkz/service/IAccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_02account_aoptx_xml/src/main/java/com/xkz/service/impl/AccountServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_02account_aoptx_xml/src/main/java/com/xkz/utils/ConnectionUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_02account_aoptx_xml/src/main/java/com/xkz/utils/TransactionManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_02account_aoptx_xml/src/main/resources/bean.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_02account_aoptx_xml/src/test/java/com/xkz/test/AccountServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_03account_aoptx_anno/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_03account_aoptx_anno/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_03account_aoptx_anno/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_03account_aoptx_anno/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_03account_aoptx_anno/day04_eesy_03account_aoptx_anno.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_03account_aoptx_anno/src/main/java/com/xkz/dao/IAccountDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_03account_aoptx_anno/src/main/java/com/xkz/dao/impl/AccountDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_03account_aoptx_anno/src/main/java/com/xkz/domain/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_03account_aoptx_anno/src/main/java/com/xkz/service/IAccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_03account_aoptx_anno/src/main/java/com/xkz/service/impl/AccountServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_03account_aoptx_anno/src/main/java/com/xkz/utils/ConnectionUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_03account_aoptx_anno/src/main/java/com/xkz/utils/TransactionManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_03account_aoptx_anno/src/main/resources/bean.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_03account_aoptx_anno/src/test/java/com/xkz/test/AccountServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_04tx/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_04tx/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_04tx/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_04tx/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_04tx/day04_eesy_04tx.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_04tx/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_04tx/src/main/java/com/xkz/dao/IAccountDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_04tx/src/main/java/com/xkz/dao/impl/AccountDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_04tx/src/main/java/com/xkz/domain/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_04tx/src/main/java/com/xkz/service/IAccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_04tx/src/main/java/com/xkz/service/impl/AccountServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_04tx/src/main/resources/bean.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_04tx/src/test/java/com/xkz/test/AccountServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_05tx_xml/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_05tx_xml/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_05tx_xml/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_05tx_xml/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_05tx_xml/day04_eesy_05tx_xml.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_05tx_xml/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_05tx_xml/src/main/java/com/xkz/dao/IAccountDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_05tx_xml/src/main/java/com/xkz/dao/impl/AccountDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_05tx_xml/src/main/java/com/xkz/domain/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_05tx_xml/src/main/java/com/xkz/service/IAccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_05tx_xml/src/main/java/com/xkz/service/impl/AccountServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_05tx_xml/src/main/resources/bean.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day04_eesy_05tx_xml/src/test/java/com/xkz/test/AccountServiceTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,6 +186,7 @@
       <updated>1588171122121</updated>
       <workItem from="1588171125667" duration="2498000" />
       <workItem from="1588229721729" duration="6639000" />
+      <workItem from="1588672710828" duration="29000" />
     </task>
     <servers />
   </component>
