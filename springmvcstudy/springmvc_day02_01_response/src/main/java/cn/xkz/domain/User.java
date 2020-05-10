@@ -2,7 +2,6 @@ package cn.xkz.domain;
 
 import java.io.Serializable;
 
-<<<<<<< HEAD
 public class User implements Serializable {
 =======
 public class User implements Serializable{
