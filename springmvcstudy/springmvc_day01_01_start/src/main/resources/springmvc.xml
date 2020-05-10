@@ -13,4 +13,22 @@
 
     <!--开启注解扫描-->
     <context:component-scan base-package="cn.xkz"></context:component-scan>
+
+    <!--视图解析器对象-->
+    <bean id="internalResourceViewResolverce" class="org.springframework.web.servlet.view.InternalResourceViewResolver">
+        <property name="prefix" value="/WEB-INF/pages/"/>
+        <property name="suffix" value=".jsp"/>
+    </bean>
+
+    <!--配置自定义类型转换器-->
+    <bean id="conversion" class="org.springframework.context.support.ConversionServiceFactoryBean">
+        <property name="converters">
+            <set>
+                <bean class="cn.xkz.utils.StringToDateConverter"></bean>
+            </set>
+        </property>
+    </bean>
+
+    <!--开启springmvc框架注解的支持-->
+    <mvc:annotation-driven conversion-service="conversion"/>
 </beans>
