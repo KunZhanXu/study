@@ -43,6 +43,8 @@
                         transaction-manager:给事务通知提供一个事务管理器引用
         3.配置AOP中的通用切入点表达式
         4.建立事务通知和切入点表达式的对应关系
+        5.配置事务的属性
+                是在事务通知tx:advice标签内部
     -->
     <!--配置事务管理器-->
     <bean id="transactionManager" class="org.springframework.jdbc.datasource.DataSourceTransactionManager">
@@ -50,7 +52,20 @@
     </bean>
 
     <!--配置事务通知-->
-    <tx:advice id="txAdvice" transaction-manager="transactionManager"></tx:advice>
+    <tx:advice id="txAdvice" transaction-manager="transactionManager">
+        <!--配置事务属性
+                isolation:用于指定事务的隔离级别。默认是default，表示的是数据库默认隔离级别
+                no-rollback-for=""用于指定一个异常，当产生异常时，事务不回滚，产生其他异常时，事务回滚。没有默认值。表示任何异常都不回滚。
+                propagation="" 用于指定事务的传播行为。默认是REQUIRED，表示一定会有事务，增删改的选择，查询方法可以选择SUPPORTS
+                read-only=""用于指定事务是否只读。只有查询方法才能设置为true。默认值是false，表示读写
+                rollback-for=""  用于指定一个异常，当产生异常时，事务回滚，产生其他异常时，事务不回滚。没有默认值。表示任何异常都回滚。
+                timeout=""用于指定事务的超时时间，默认值是-1，表示用不超时。如果指定了数值，以秒为单位
+        -->
+        <tx:attributes>
+            <tx:method name="*" propagation="REQUIRED" read-only="false"/>
+            <tx:method name="find*" propagation="SUPPORTS" read-only="true"/>
+        </tx:attributes>
+    </tx:advice>
 
     <!--配置aop-->
     <aop:config>
