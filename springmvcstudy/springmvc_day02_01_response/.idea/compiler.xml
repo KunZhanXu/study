@@ -6,7 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+<<<<<<< HEAD
         <module name="springmvc_day02_01_response" />
+=======
+        <module name="springmvc_day02_03_exception" />
+        <module name="springmvc_day02_01_response" />
+        <module name="springmvc_day02_02_fileupload" />
+>>>>>>> 37b7324e6cd91733deb227f6579556ceced6668a
       </profile>
     </annotationProcessing>
   </component>
