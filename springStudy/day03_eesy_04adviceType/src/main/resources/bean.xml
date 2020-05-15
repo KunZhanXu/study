@@ -18,7 +18,7 @@
     <aop:config>
         <!--配置切入点表达式,id属性用于指定表达式的唯一标识。expression属性指定表达式内容
                 此标签写在aop:aspect内部只能当前切面使用。
-                他还可以卸载aop:aspect外面，此时就变成了所有切面可用
+                他还可以写在aop:aspect外面，此时就变成了所有切面可用
             -->
         <aop:pointcut id="pt1" expression="execution(* com.xkz.service.impl.*.*(..))"></aop:pointcut>
         <!--配置切面-->

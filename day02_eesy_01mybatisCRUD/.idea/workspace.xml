@@ -2,23 +2,58 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="214667ae-370d-4fcd-af1f-493eb37d8aab" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../springStudy/day02_eesy_02account/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springStudy/day02_eesy_02account/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springStudy/day02_eesy_02account/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springStudy/day02_eesy_02account/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springStudy/day02_eesy_02account/day02_eesy_02account.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springStudy/day02_eesy_02account/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springStudy/day02_eesy_02account/src/main/java/com/xkz/dao/AccountDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springStudy/day02_eesy_02account/src/main/java/com/xkz/dao/impl/AccountDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springStudy/day02_eesy_02account/src/main/java/com/xkz/domain/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springStudy/day02_eesy_02account/src/main/java/com/xkz/service/AccountService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springStudy/day02_eesy_02account/src/main/java/com/xkz/service/impl/AccountServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springStudy/day02_eesy_02account/src/main/resources/bean.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvcstudy/springmvc_day02_01_response/.idea/artifacts/springmvc_day02_01_response_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvcstudy/springmvc_day02_01_response/.idea/artifacts/springmvc_day02_01_response_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvcstudy/springmvc_day02_01_response/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvcstudy/springmvc_day02_01_response/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvcstudy/springmvc_day02_01_response/.idea/libraries/Maven__org_springframework_spring_aop_5_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvcstudy/springmvc_day02_01_response/.idea/libraries/Maven__org_springframework_spring_beans_5_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvcstudy/springmvc_day02_01_response/.idea/libraries/Maven__org_springframework_spring_context_5_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvcstudy/springmvc_day02_01_response/.idea/libraries/Maven__org_springframework_spring_core_5_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvcstudy/springmvc_day02_01_response/.idea/libraries/Maven__org_springframework_spring_expression_5_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvcstudy/springmvc_day02_01_response/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvcstudy/springmvc_day02_01_response/.idea/libraries/Maven__org_springframework_spring_web_5_0_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springmvcstudy/springmvc_day02_01_response/.idea/libraries/Maven__org_springframework_spring_webmvc_5_0_2_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day01_eesy_01mybatis/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day01_eesy_01mybatis/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day01_eesy_01mybatis/day01_eesy_01mybatis.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day02_eesy_02mybatisDao/day02_eesy_02mybatisDao.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day03_eesy_01account/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day03_eesy_01account/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/day04_eesy_03annotation_mybatis.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvcstudy/springmvc_day02_01_response/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springmvcstudy/springmvc_day02_01_response/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvcstudy/springmvc_day02_01_response/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springmvcstudy/springmvc_day02_01_response/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvcstudy/springmvc_day02_01_response/springmvc_day02_01_response.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../springmvcstudy/springmvc_day02_01_response/springmvc_day02_01_response.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvcstudy/springmvc_day02_01_response/src/main/java/cn/xkz/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springmvcstudy/springmvc_day02_01_response/src/main/java/cn/xkz/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvcstudy/springmvc_day02_01_response/src/main/java/cn/xkz/domain/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springmvcstudy/springmvc_day02_01_response/src/main/java/cn/xkz/domain/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvcstudy/springmvc_day02_03_exception/springmvc_day02_03_exception.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../springmvcstudy/springmvc_day02_03_exception/springmvc_day02_03_exception.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvcstudy/springmvc_day02_03_exception/src/main/resources/springmvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springmvcstudy/springmvc_day02_03_exception/src/main/resources/springmvc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvcstudy/springmvc_day02_03_exception/target/classes/META-INF/springmvc_day02_03_exception.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvcstudy/springmvc_day02_03_exception/target/classes/cn/xkz/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../springmvcstudy/springmvc_day02_03_exception/target/classes/cn/xkz/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvcstudy/springmvc_day02_03_exception/target/classes/springmvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springmvcstudy/springmvc_day02_03_exception/target/classes/springmvc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvcstudy/springmvc_day02_03_exception/target/springmvc_day02_03_exception/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../springmvcstudy/springmvc_day02_03_exception/target/springmvc_day02_03_exception/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvcstudy/springmvc_day02_03_exception/target/springmvc_day02_03_exception/WEB-INF/classes/cn/xkz/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../springmvcstudy/springmvc_day02_03_exception/target/springmvc_day02_03_exception/WEB-INF/classes/cn/xkz/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springmvcstudy/springmvc_day02_03_exception/target/springmvc_day02_03_exception/WEB-INF/classes/springmvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springmvcstudy/springmvc_day02_03_exception/target/springmvc_day02_03_exception/WEB-INF/classes/springmvc.xml" afterDir="false" />
     </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="UserDao.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/com/xkz/dao/UserDao.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="23" column="17" lean-forward="true" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -30,6 +65,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -39,8 +80,88 @@
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="970" />
+  </component>
   <component name="ProjectId" id="1ayEGavcTCWwiIQu6HT69YjvRZJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="day02_eesy_01mybatisCRUD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day02_eesy_01mybatisCRUD" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="day02_eesy_01mybatisCRUD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day02_eesy_01mybatisCRUD" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="day02_eesy_01mybatisCRUD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day02_eesy_01mybatisCRUD" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="day02_eesy_01mybatisCRUD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day02_eesy_01mybatisCRUD" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="day02_eesy_01mybatisCRUD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day02_eesy_01mybatisCRUD" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="day02_eesy_01mybatisCRUD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day02_eesy_01mybatisCRUD" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="xkz" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="day02_eesy_01mybatisCRUD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day02_eesy_01mybatisCRUD" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="xkz" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="day02_eesy_01mybatisCRUD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day02_eesy_01mybatisCRUD" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -49,7 +170,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../springmvcstudy/ssm" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
@@ -59,10 +180,22 @@
       <recent name="D:\workspace\IdeaProjects\mystudy\day02_eesy_01mybatisCRUD\src\main\java\com\xkz\dao" />
     </key>
   </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
   <component name="RunManager" selected="JUnit.MybatisTest.testFindAll">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
+      <method>
         <option name="Make" enabled="true" />
       </method>
     </configuration>
@@ -74,14 +207,20 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.xkz.test" />
       <option name="MAIN_CLASS_NAME" value="com.xkz.test.MybatisTest" />
       <option name="METHOD_NAME" value="testFindAll" />
       <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <configuration name="MybatisTest.testFindByName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="day02_eesy_01mybatisCRUD" />
@@ -91,14 +230,20 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.xkz.test" />
       <option name="MAIN_CLASS_NAME" value="com.xkz.test.MybatisTest" />
       <option name="METHOD_NAME" value="testFindByName" />
       <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <configuration name="MybatisTest.testFindByVo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="day02_eesy_01mybatisCRUD" />
@@ -108,14 +253,20 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.xkz.test" />
       <option name="MAIN_CLASS_NAME" value="com.xkz.test.MybatisTest" />
       <option name="METHOD_NAME" value="testFindByVo" />
       <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <configuration name="MybatisTest.testFindTotal" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="day02_eesy_01mybatisCRUD" />
@@ -125,14 +276,20 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.xkz.test" />
       <option name="MAIN_CLASS_NAME" value="com.xkz.test.MybatisTest" />
       <option name="METHOD_NAME" value="testFindTotal" />
       <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <configuration name="MybatisTest.testSave" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="day02_eesy_01mybatisCRUD" />
@@ -142,28 +299,62 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.xkz.test" />
       <option name="MAIN_CLASS_NAME" value="com.xkz.test.MybatisTest" />
       <option name="METHOD_NAME" value="testSave" />
       <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+      <method>
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="TestNG">
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
       <properties />
       <listeners />
-      <method v="2">
+      <method>
         <option name="Make" enabled="true" />
       </method>
     </configuration>
@@ -211,6 +402,8 @@
       <workItem from="1587699340198" duration="92000" />
       <workItem from="1587699728041" duration="81000" />
       <workItem from="1587954212460" duration="35000" />
+      <workItem from="1589210787699" duration="749000" />
+      <workItem from="1589285181392" duration="620000" />
     </task>
     <task id="LOCAL-00001" summary="测试一下">
       <created>1587470932040</created>
@@ -236,8 +429,47 @@
     <option name="localTasksCounter" value="4" />
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1369000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2533512" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="测试一下" />
@@ -261,6 +493,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="394" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587699808090" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com/xkz/dao/UserDao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="21" column="13" lean-forward="true" selection-start-line="17" selection-start-column="4" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com/xkz/dao/UserDao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="23" column="17" lean-forward="true" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
