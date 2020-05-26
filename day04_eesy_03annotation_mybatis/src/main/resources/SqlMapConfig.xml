@@ -23,6 +23,6 @@
     </environments>
     <!--指定带有注解的dao接口所在位置-->
     <mappers>
-        <!--<package name="com.xkz.dao"/>-->
+        <package name="com.xkz.dao"/>
     </mappers>
 </configuration>
