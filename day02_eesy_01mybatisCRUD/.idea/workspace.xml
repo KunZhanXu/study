@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="214667ae-370d-4fcd-af1f-493eb37d8aab" name="Default" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/../springmvcstudy/springmvc_day02_01_response/.idea/artifacts/springmvc_day02_01_response_war.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../springmvcstudy/springmvc_day02_01_response/.idea/artifacts/springmvc_day02_01_response_war_exploded.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../springmvcstudy/springmvc_day02_01_response/.idea/libraries/Maven__javax_servlet_jsp_jsp_api_2_0.xml" afterDir="false" />
@@ -33,6 +34,11 @@
       <change beforePath="$PROJECT_DIR$/../springmvcstudy/springmvc_day02_03_exception/target/springmvc_day02_03_exception/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../springmvcstudy/springmvc_day02_03_exception/target/springmvc_day02_03_exception/META-INF/MANIFEST.MF" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../springmvcstudy/springmvc_day02_03_exception/target/springmvc_day02_03_exception/WEB-INF/classes/cn/xkz/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../springmvcstudy/springmvc_day02_03_exception/target/springmvc_day02_03_exception/WEB-INF/classes/cn/xkz/controller/UserController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../springmvcstudy/springmvc_day02_03_exception/target/springmvc_day02_03_exception/WEB-INF/classes/springmvc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springmvcstudy/springmvc_day02_03_exception/target/springmvc_day02_03_exception/WEB-INF/classes/springmvc.xml" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SqlMapConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/SqlMapConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/src/main/java/com/xkz/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day04_eesy_03annotation_mybatis/src/main/java/com/xkz/dao/UserDao.java" afterDir="false" />
+>>>>>>> b8c7b6d3357ab0ea64c9b2438042284333e91a8f
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -78,6 +84,11 @@
         <option name="mavenHome" value="D:/maven/soft/apache-maven-3.3.3-bin/apache-maven-3.3.3" />
         <option name="userSettingsFile" value="D:\maven\soft\apache-maven-3.3.3-bin\apache-maven-3.3.3\conf\settings.xml" />
       </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
     </option>
   </component>
   <component name="NodePackageJsonFileManager">
@@ -170,13 +181,21 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../springmvcstudy/ssm" />
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/xkz/dao" />
+>>>>>>> b8c7b6d3357ab0ea64c9b2438042284333e91a8f
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\IdeaProjects\mystudy\day02_eesy_01mybatisCRUD\src\main\java\com\xkz\dao" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workspace\IdeaProjects\mystudy\day02_eesy_01mybatisCRUD\src\main\resources\com\xkz\dao" />
       <recent name="D:\workspace\IdeaProjects\mystudy\day02_eesy_01mybatisCRUD\src\main\java\com\xkz\dao" />
     </key>
   </component>
@@ -402,8 +421,12 @@
       <workItem from="1587699340198" duration="92000" />
       <workItem from="1587699728041" duration="81000" />
       <workItem from="1587954212460" duration="35000" />
+<<<<<<< HEAD
       <workItem from="1589210787699" duration="749000" />
       <workItem from="1589285181392" duration="620000" />
+=======
+      <workItem from="1589590387079" duration="268000" />
+>>>>>>> b8c7b6d3357ab0ea64c9b2438042284333e91a8f
     </task>
     <task id="LOCAL-00001" summary="测试一下">
       <created>1587470932040</created>
@@ -477,22 +500,22 @@
     <option name="LAST_COMMIT_MESSAGE" value="晚上的改动" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="394" key="GridCell.Tab.0.bottom" timestamp="1587699808090">
+    <state width="1877" height="394" key="GridCell.Tab.0.bottom" timestamp="1589590654359">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="394" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587699808090" />
-    <state width="1877" height="394" key="GridCell.Tab.0.center" timestamp="1587699808090">
+    <state width="1877" height="394" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589590654359" />
+    <state width="1877" height="394" key="GridCell.Tab.0.center" timestamp="1589590654359">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="394" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587699808090" />
-    <state width="1877" height="394" key="GridCell.Tab.0.left" timestamp="1587699808090">
+    <state width="1877" height="394" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589590654359" />
+    <state width="1877" height="394" key="GridCell.Tab.0.left" timestamp="1589590654359">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="394" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587699808090" />
-    <state width="1877" height="394" key="GridCell.Tab.0.right" timestamp="1587699808090">
+    <state width="1877" height="394" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589590654359" />
+    <state width="1877" height="394" key="GridCell.Tab.0.right" timestamp="1589590654359">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="394" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587699808090" />
+    <state width="1877" height="394" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589590654359" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/resources/com/xkz/dao/UserDao.xml">
