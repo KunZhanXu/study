@@ -3,6 +3,14 @@ package cn.xkz.controller;
 import cn.xkz.domain.User;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
+<<<<<<< HEAD
+import org.springframework.web.bind.annotation.RequestMapping;
+
+import javax.servlet.ServletException;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+import java.io.IOException;
+=======
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
@@ -10,11 +18,22 @@ import org.springframework.web.servlet.ModelAndView;
 
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
+>>>>>>> 37b7324e6cd91733deb227f6579556ceced6668a
 
 @Controller
 @RequestMapping("/user")
 public class UserController {
 
+<<<<<<< HEAD
+    @RequestMapping("/testString")
+    public String testString(Model model){
+        System.out.println("testString方法执行了");
+        //模拟从数据库中查询出user对象
+        User user = new User();
+        user.setUsername("张三");
+        user.setPassword("123");
+        user.setAge(18);
+=======
     /**
      * 返回String
      * @param model
@@ -29,10 +48,30 @@ public class UserController {
         user.setPassword("123");
         user.setAge(30);
         // model对象
+>>>>>>> 37b7324e6cd91733deb227f6579556ceced6668a
         model.addAttribute("user",user);
         return "success";
     }
 
+<<<<<<< HEAD
+
+    @RequestMapping("/testVoid")
+    public void testVoid(HttpServletRequest request, HttpServletResponse response) throws Exception {
+        System.out.println("testString方法执行了");
+        //request.getRequestDispatcher("/WEB-INF/pages/success.jsp").forward(request,response);
+
+        //重定向
+        //System.out.println(request.getContextPath());
+        //response.sendRedirect(request.getContextPath()+"/index.jsp");
+
+        //设置中文乱码
+        response.setCharacterEncoding("UTF-8");
+        response.setContentType("text/html;charset=UTF-8");
+        //直接进行响应
+        response.getWriter().print("hello");
+    }
+}
+=======
     /**
      * 是void
      * 请求转发一次请求，不用编写项目的名称
@@ -123,3 +162,4 @@ public class UserController {
 
 
 
+>>>>>>> 37b7324e6cd91733deb227f6579556ceced6668a

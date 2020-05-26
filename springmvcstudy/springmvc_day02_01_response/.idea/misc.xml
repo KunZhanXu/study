@@ -3,15 +3,21 @@
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$" />
+<<<<<<< HEAD
+=======
     <file type="web" url="file://$PROJECT_DIR$/../springmvc_day02_02_fileupload" />
     <file type="web" url="file://$PROJECT_DIR$/../springmvc_day02_03_exception" />
+>>>>>>> 37b7324e6cd91733deb227f6579556ceced6668a
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+<<<<<<< HEAD
+=======
         <option value="$PROJECT_DIR$/../springmvc_day02_02_fileupload/pom.xml" />
         <option value="$PROJECT_DIR$/../springmvc_day02_03_exception/pom.xml" />
+>>>>>>> 37b7324e6cd91733deb227f6579556ceced6668a
       </list>
     </option>
   </component>

@@ -1,14 +1,27 @@
 <%--
   Created by IntelliJ IDEA.
+<<<<<<< HEAD
+  User: 徐坤展
+  Date: 2020/5/9
+  Time: 21:51
+=======
   User: Administrator
   Date: 2018/5/1
   Time: 1:16
+>>>>>>> 37b7324e6cd91733deb227f6579556ceced6668a
   To change this template use File | Settings | File Templates.
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
     <title>Title</title>
+<<<<<<< HEAD
+</head>
+<body>
+    <a href="user/testString">testString</a>
+
+    <a href="user/testVoid">testVoid</a>
+=======
 
     <script src="js/jquery.min.js"></script>
 
@@ -57,5 +70,6 @@
 
     <button id="btn">发送ajax请求</button>
 
+>>>>>>> 37b7324e6cd91733deb227f6579556ceced6668a
 </body>
 </html>
